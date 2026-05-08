@@ -48,12 +48,12 @@ Agentic AI • Machine Learning • Intelligent Systems
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhunmeer&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKhunmeer&theme=tokyonight" width="98%" />
 </p>
 
 ---
