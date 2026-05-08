@@ -55,18 +55,15 @@ Agentic AI • Machine Learning • Intelligent Systems
 ---
 
 ## 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SKhunmeer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhunmeer&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B" width="70%" />
 </p>
+
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SKhunmeer&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
