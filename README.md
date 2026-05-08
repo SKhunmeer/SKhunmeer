@@ -10,65 +10,62 @@ Agentic AI • Machine Learning • Intelligent Systems
 
 ---
 
-## 🧠 About
 
-- Building and exploring AI-powered systems
-- Interested in Agentic AI & intelligent workflows
-- Learning Machine Learning and LLM ecosystems
-- Exploring automation, reasoning systems, and AI tooling
-- Passionate about modern AI technologies
+## 🧠 About Me
+
+- 🎓 B.Tech Computer Science student with a focus on AI/ML systems
+- 🤖 Building end-to-end AI pipelines using **LLMs, RAG architectures, and multi-agent frameworks**
+- 🌐 Experienced in full-stack development with **Python, JavaScript, React.js, and Node.js**
+- 🔬 Exploring **Transformer-based models**, reasoning systems, and intelligent workflow automation
+- 📫 Reach me at: **syedkhunmeer164@gmail.com**
+- 🚀 Actively seeking **internship opportunities** in AI/ML and Software Engineering
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker,linux" />
+---
 
-</p>
+## 🔭 Current Focus
+
+- 🧩 **Agentic AI** — Multi-agent systems and autonomous reasoning pipelines
+- 📚 **LLM Ecosystems** — Fine-tuning, prompt engineering, RAG pipelines
+- 🛠️ **Full-Stack Development** — Building scalable, production-ready applications
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhunmeer&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SKhunmeer&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🤖 Focus Areas
-
-- Agentic AI
-- Machine Learning
-- Prompt Engineering
-- AI Automation
-- LLM Workflows
-- Intelligent Systems
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SKhunmeer&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
-
-<p align="center">
-Building intelligent systems with modern AI technologies.
+  <a href="https://linkedin.com/in/SKhunmeer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:syedkhunmeer164@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SKhunmeer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
