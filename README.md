@@ -54,7 +54,7 @@ Agentic AI • Machine Learning • Intelligent Systems
 
 ---
 
-## 🔥 Contribution Streak
+
 ## 🔥 Contribution Streak
 
 <p align="center">
