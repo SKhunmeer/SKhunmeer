@@ -66,11 +66,10 @@ Agentic AI • Machine Learning • Intelligent Systems
 
 
 ---
-
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKhunmeer&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKhunmeer&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFD700&area=true&area_color=FF6B6B&hide_border=true" width="98%" />
 </p>
 ---
 
