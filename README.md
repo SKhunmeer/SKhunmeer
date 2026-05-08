@@ -14,7 +14,7 @@ Agentic AI • Machine Learning • Intelligent Systems
 ## 🧠 About Me
 
 - 🎓 B.Tech Computer Science student with a focus on AI/ML systems
-- 🤖 Building end-to-end AI pipelines using **LLMs, RAG architectures, and multi-agent frameworks**
+- 🤖 Building end-to-end AI pipelines using **LLMs, RAG architectures, and multi-agent frameworks
 - 🌐 Experienced in full-stack development with **Python, JavaScript, React.js, and Node.js**
 - 🔬 Exploring **Transformer-based models**, reasoning systems, and intelligent workflow automation
 - 📫 Reach me at: **syedkhunmeer164@gmail.com**
