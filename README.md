@@ -47,14 +47,34 @@ Agentic AI • Machine Learning • Intelligent Systems
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKhunmeer&theme=github_dark" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=SKhunmeer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
 </p>
 
+---
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SKhunmeer&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKhunmeer&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
 ---
 
 <p align="center">
