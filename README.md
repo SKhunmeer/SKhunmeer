@@ -39,11 +39,66 @@ Agentic AI • Machine Learning • Intelligent Systems
 
 ## 🔭 Current Focus
 
-- 🧩 **Agentic AI** — Multi-agent systems and autonomous reasoning pipelines
-- 📚 **LLM Ecosystems** — Fine-tuning, prompt engineering, RAG pipelines
-- 🛠️ **Full-Stack Development** — Building scalable, production-ready applications
+| Area | What I'm Building / Learning |
+|------|-------------------------------|
+| 🧩 **Agentic AI** | Multi-agent systems with tool use, memory, and autonomous reasoning pipelines |
+| 🤖 **MCP & Tool Use** | Connecting LLMs to real-world tools via Model Context Protocol |
+| 📚 **LLM Ecosystems** | Fine-tuning, advanced prompt engineering, RAG pipelines with vector DBs |
+| 🔗 **LangChain / LangGraph** | Building stateful, graph-based agentic workflows |
+| 🛠️ **Full-Stack AI Apps** | Deploying production-ready AI-powered web applications |
+| 🌐 **Open Source** | Contributing to AI/ML tooling and frameworks |
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 Agentic RAG Pipeline</h3>
+      <p>End-to-end Retrieval-Augmented Generation system with multi-step reasoning, tool calling, and memory. Built with LangChain + vector DB + custom agent loops.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🤖 Multi-Agent Workflow System</h3>
+      <p>Autonomous multi-agent framework where specialized agents collaborate, delegate, and reason through complex tasks using LangGraph and custom tool orchestration.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 AI-Powered Full Stack App</h3>
+      <p>React + Node.js web application with integrated LLM backend — featuring real-time AI chat, document Q&A, and intelligent summarization.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3>🔍 Transformer Fine-Tuning Lab</h3>
+      <p>Experimentation repo for fine-tuning open-source LLMs on domain-specific datasets using PEFT, LoRA, and QLoRA techniques with HuggingFace Transformers.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 **AI/ML Hackathon Participant** — Built agentic systems under time pressure with real-world deployment
+- 📜 **Actively pursuing certifications** in Deep Learning, MLOps, and Cloud AI (AWS/GCP)
+- 🌟 **Open Source Contributor** — PRs and issues on AI/ML tooling repositories
+- 📝 **Technical Writing** — Documenting AI system architectures and prompt engineering patterns
+- 🎯 **100+ Hours** of hands-on LLM experimentation — RAG, agents, fine-tuning, and tool use
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -51,8 +106,6 @@ Agentic AI • Machine Learning • Intelligent Systems
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
-
----
 
 
 ## 🔥 Contribution Streak
