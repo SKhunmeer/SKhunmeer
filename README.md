@@ -28,3 +28,6 @@ $ ls skills/
 $ cat contact.txt
 > email    : your.email@example.com
 > linkedin : linkedin.com/in/your-linkedin
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&hide_border=true" alt="GitHub Stats"/>
+</p>
