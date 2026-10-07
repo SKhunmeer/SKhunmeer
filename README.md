@@ -1,139 +1,171 @@
-<h1 align="center">Syed Khunmeer</h1>
+<div align="center">
 
-<h3 align="center">
-Agentic AI • Machine Learning • Intelligent Systems
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00f0ff&height=220&section=header&text=Syed%20Khunmeer&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Systems%20%C2%B7%20System%20Design%20%C2%B7%20AI%2FML&descAlignY=58&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Systems;Exploring+Agentic+AI;Machine+Learning+Enthusiast;AI+Automation+%26+LLM+Workflows;Open+Source+Explorer" />
-</p>
+<a href="https://github.com/SKhunmeer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Designing+scalable+backend+systems;Shipping+AI+agents+beyond+the+notebook;Thinking+in+latency%2C+throughput+%26+trade-offs;Open+to+AI%2FML+%26+Backend+internships" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
+![Location](https://img.shields.io/badge/Hyderabad-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00f0ff&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open_to_Internships-00f0ff?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Backend_%2B_AI%2FML-7c3aed?style=for-the-badge&labelColor=0d1117)
 
-## 🧠 About Me
-
-- 🎓 B.Tech Computer Science student with a focus on AI/ML systems
-- 🤖 Building end-to-end AI pipelines using **LLMs, RAG architectures, and multi-agent frameworks
-- 🌐 Experienced in full-stack development with **Python, JavaScript, React.js, and Node.js**
-- 🔬 Exploring **Transformer-based models**, reasoning systems, and intelligent workflow automation
-- 📫 Reach me at: **syedkhunmeer164@gmail.com**
-- 🚀 Actively seeking **internship opportunities** in AI/ML and Software Engineering
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## `~/whoami`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🔭 Current Focus
-
-| Area | What I'm Building / Learning |
-|------|-------------------------------|
-| 🧩 **Agentic AI** | Multi-agent systems with tool use, memory, and autonomous reasoning pipelines |
-| 🤖 **MCP & Tool Use** | Connecting LLMs to real-world tools via Model Context Protocol |
-| 📚 **LLM Ecosystems** | Fine-tuning, advanced prompt engineering, RAG pipelines with vector DBs |
-| 🔗 **LangChain / LangGraph** | Building stateful, graph-based agentic workflows |
-| 🛠️ **Full-Stack AI Apps** | Deploying production-ready AI-powered web applications |
-| 🌐 **Open Source** | Contributing to AI/ML tooling and frameworks |
+```bash
+$ cat profile.yaml
+name:        Syed Khunmeer
+education:   B.Tech CSE @ MCET, Hyderabad (2024–28)
+focus:       [backend-systems, distributed-design, ai-agents, llm-infra]
+building:    APIs, agent pipelines, retrieval systems
+mindset:     "make it work, make it measurable, make it scale"
+status:      seeking AI/ML + Software Engineering internships
+```
 
 ---
 
-## 🚀 Featured Projects
+## `~/architecture` — how I think about systems
+
+```mermaid
+flowchart LR
+    C([Client]) --> LB[Load Balancer]
+    LB --> API1[API Service<br/>FastAPI / Node.js]
+    LB --> API2[API Service<br/>FastAPI / Node.js]
+    API1 --> CACHE[(Cache)]
+    API2 --> CACHE
+    API1 --> DB[(MySQL)]
+    API2 --> DB
+    API1 --> Q{{Task Queue}}
+    Q --> W[Workers]
+    W --> LLM[LLM / Agent Layer]
+    LLM --> VDB[(Vector DB)]
+    W --> DB
+```
+
+> Caching, async workers, stateless services, and an AI layer that sits behind a queue instead of blocking the request path.
+
+---
+
+## `~/stack`
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=py,java,js,nodejs,fastapi,mysql,docker,git,linux&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,py&theme=dark" />
+
+`LangChain` · `LangGraph` · `HuggingFace Transformers` · `PEFT / LoRA / QLoRA` · `RAG` · `Vector DBs` · `MCP`
+
+**Frontend (when the system needs a face)**
+
+<img src="https://skillicons.dev/icons?i=react,vscode&theme=dark" />
+
+**Currently exploring**
+
+<img src="https://skillicons.dev/icons?i=redis,postgres,kafka,aws&theme=dark" />
+
+---
+
+## `~/focus`
+
+| Area | What I'm working on |
+|---|---|
+| **Backend Engineering** | REST APIs, auth, data modeling, clean service boundaries |
+| **System Design** | Caching, load balancing, queues, consistency vs. availability trade-offs |
+| **Agentic AI** | Multi-agent workflows with tool use, memory, and reasoning loops |
+| **LLM Infrastructure** | RAG pipelines, vector search, fine-tuning, serving LLMs behind APIs |
+| **MCP & Tool Use** | Connecting LLMs to real-world tools through Model Context Protocol |
+
+---
+
+## `~/projects`
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 Agentic RAG Pipeline</h3>
-      <p>End-to-end Retrieval-Augmented Generation system with multi-step reasoning, tool calling, and memory. Built with LangChain + vector DB + custom agent loops.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>🤖 Multi-Agent Workflow System</h3>
-      <p>Autonomous multi-agent framework where specialized agents collaborate, delegate, and reason through complex tasks using LangGraph and custom tool orchestration.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 AI-Powered Full Stack App</h3>
-      <p>React + Node.js web application with integrated LLM backend — featuring real-time AI chat, document Q&A, and intelligent summarization.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h3>🔍 Transformer Fine-Tuning Lab</h3>
-      <p>Experimentation repo for fine-tuning open-source LLMs on domain-specific datasets using PEFT, LoRA, and QLoRA techniques with HuggingFace Transformers.</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Agentic RAG Pipeline
+Retrieval-augmented generation with multi-step reasoning, tool calling, and memory, served through an async API.
+
+**Design notes:** chunking strategy, vector search, agent loop, API layer
+
+`Python` `LangChain` `FastAPI` `Vector DB`
+
+[View repo →](https://github.com/SKhunmeer)
+
+</td>
+<td width="50%" valign="top">
+
+### Multi-Agent Workflow System
+Specialized agents that delegate and collaborate on complex tasks through a graph-based orchestrator.
+
+**Design notes:** state machine, tool orchestration, containerized deploy
+
+`Python` `LangGraph` `Docker`
+
+[View repo →](https://github.com/SKhunmeer)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### AI-Powered Full Stack App
+React + Node.js application with an LLM backend: real-time chat, document Q&A, and summarization.
+
+**Design notes:** API gateway pattern, streaming responses, request handling
+
+`React` `Node.js` `OpenAI`
+
+[View repo →](https://github.com/SKhunmeer)
+
+</td>
+<td width="50%" valign="top">
+
+### Transformer Fine-Tuning Lab
+Experiments fine-tuning open-source LLMs on domain data with parameter-efficient methods.
+
+**Design notes:** PEFT / LoRA / QLoRA, evaluation, GPU training
+
+`PyTorch` `HuggingFace` `CUDA`
+
+[View repo →](https://github.com/SKhunmeer)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Highlights
+## `~/learning-log`
 
-- 🥇 **AI/ML Hackathon Participant** — Built agentic systems under time pressure with real-world deployment
-- 📜 **Actively pursuing certifications** in Deep Learning, MLOps, and Cloud AI (AWS/GCP)
-- 🌟 **Open Source Contributor** — PRs and issues on AI/ML tooling repositories
-- 📝 **Technical Writing** — Documenting AI system architectures and prompt engineering patterns
-- 🎯 **100+ Hours** of hands-on LLM experimentation — RAG, agents, fine-tuning, and tool use
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-</p>
-
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKhunmeer&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FFD700&currStreakLabel=FF6B6B" width="70%" />
-</p>
-
+- [x] REST API design and service structure
+- [x] RAG pipelines and agent loops
+- [ ] Distributed caching and message queues
+- [ ] Database indexing, replication, and sharding
+- [ ] Observability: logging, metrics, tracing
+- [ ] Cloud deployment and MLOps
 
 ---
 
+## `~/contact`
 
----
-## 📈 Activity Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKhunmeer&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFD700&area=true&area_color=FF6B6B&hide_border=true" width="98%" />
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:syedkhunmeer164@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/SKhunmeer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+<br/><br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/SKhunmeer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:syedkhunmeer164@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SKhunmeer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0a3d62,100:0d1117&height=120&section=footer" width="100%" />
+
+</div>
