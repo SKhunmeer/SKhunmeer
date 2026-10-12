@@ -1,41 +1,64 @@
-```bash
-$ whoami
+```html
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=true&width=440&lines=%24+initializing+developer+profile...;%24+building+systems+that+matter;%24+ideas+%3E+execution+%3E+innovation" alt="Terminal typing animation" />
+
+# `SYED KHUNMEER`
+
+**COMPUTER SCIENCE · SOFTWARE ENGINEERING · BUILDER**
+
+`Curiosity-driven. Systems-minded. Always building.`
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2F%20AI-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
+<img src="https://img.shields.io/badge/MINDSET-ENGINEER-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
+<img src="https://img.shields.io/badge/MODE-LEARNING%20%2F%20BUILDING-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C" />
+
+</div>
+
+---
+
+```console
+khunmeer@dev:~$ cat about.txt
+
+> Passionate about technology, innovation, and engineering.
+> Exploring how systems work beneath the surface.
+> Turning ideas into software that solves real problems.
+> Learning by building. Improving by experimenting.
 ```
 
-# `syed-khunmeer@dev:~$`
+```console
+khunmeer@dev:~$ ls interests/
 
-**Computer Science Graduate · Developer · Builder**
-
-I’m passionate about technology, innovation, and building things that solve real-world problems. I enjoy exploring how systems work, turning ideas into practical solutions, and constantly learning to build better software.
-
-```text
-> BUILD   — turning ideas into reality
-> EXPLORE — understanding systems deeply
-> INNOVATE — solving problems differently
-> REPEAT  — learn, build, improve
+backend-engineering/
+artificial-intelligence/
+system-design/
+problem-solving/
 ```
 
-```bash
-$ cat /etc/stack
-```
+```console
+khunmeer@dev:~$ uptime
 
-**TECH INTERESTS**
-
-`Backend Engineering` · `Artificial Intelligence` · `System Design` · `Problem Solving`
-
-```bash
-$ echo "Always building. Always evolving."
+Always learning. Always experimenting. Always building.
 ```
 
 ---
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LINKEDIN-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub><code>exit 0 · built with curiosity</code></sub>
+
+</div>
+```
 
