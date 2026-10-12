@@ -1,36 +1,33 @@
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Syed Khunmeer. Computer Science Graduate, Developer, Builder. Driven by curiosity. Built for innovation.">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/section-about.svg" width="100%" alt="About">
+</p>
 
-<img src="./assets/profile-header.svg" width="100%" alt="Syed Khunmeer — Software Developer" />
+<p align="center">
+  <img src="assets/about.svg" width="100%" alt="I'm a Computer Science graduate who likes to understand how things work, and then build something with that understanding. Technology fascinates me because it turns ideas into things people can actually use. I enjoy creative problem-solving, experimenting with new ideas, and learning by making, even when it doesn't work first time. I'm early in my journey, and I'm focused on building software that solves real problems, one project at a time.">
+</p>
 
-<br/>
+<p align="center">
+  <img src="assets/section-interests.svg" width="100%" alt="Interests">
+</p>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-101410?style=for-the-badge&logo=gmail&logoColor=00FFA3" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LINKEDIN-101410?style=for-the-badge&logo=linkedin&logoColor=00FFA3" alt="LinkedIn" />
-</a>
+<p align="center">
+  <img src="assets/interests.svg" width="100%" alt="Interests: software engineering, backend development, artificial intelligence, and systems.">
+</p>
 
-</div>
+<p align="center">
+  <img src="assets/section-contact.svg" width="100%" alt="Contact">
+</p>
 
----
+<p align="center">
+  <a href="mailto:syedkhunmeer164@gmail.com"><img src="assets/contact-email.svg" width="224" alt="Email"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/syed-khunmeer"><img src="assets/contact-linkedin.svg" width="224" alt="LinkedIn"></a>
+</p>
 
-### `01 / ABOUT`
-
-I'm a computer science graduate passionate about engineering, innovation, and building things that solve real problems.
-
-I like understanding what's happening beneath the surface — designing backend systems, exploring AI, and turning ideas into working software.
-
-### `02 / CURRENT INTERESTS`
-
-`BACKEND SYSTEMS`  ·  `ARTIFICIAL INTELLIGENCE`  ·  `SYSTEM DESIGN`
-
-### `03 / PHILOSOPHY`
-
-```text
-Think deeply.
-Build relentlessly.
-Understand everything you ship.
-```
-
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Always building">
+</p>
