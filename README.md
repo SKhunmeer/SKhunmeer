@@ -1,41 +1,41 @@
-<h1 align="center">Syed Khunmeer</h1>
+```bash
+$ whoami
+```
 
-<p align="center">
-  AI Systems & ML Developer<br/>
-  Intelligent automation · Java backend · Data-driven solutions
-</p>
+# `syed-khunmeer@dev:~$`
 
-<p align="center">
-  <a href="mailto:syedkhunmeer164@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+**Computer Science Graduate · Developer · Builder**
+
+I’m passionate about technology, innovation, and building things that solve real-world problems. I enjoy exploring how systems work, turning ideas into practical solutions, and constantly learning to build better software.
+
+```text
+> BUILD   — turning ideas into reality
+> EXPLORE — understanding systems deeply
+> INNOVATE — solving problems differently
+> REPEAT  — learn, build, improve
+```
+
+```bash
+$ cat /etc/stack
+```
+
+**TECH INTERESTS**
+
+`Backend Engineering` · `Artificial Intelligence` · `System Design` · `Problem Solving`
+
+```bash
+$ echo "Always building. Always evolving."
+```
 
 ---
 
-### About
-
-B.Tech Computer Science student at Methodist College of Engineering and Technology, Hyderabad (2024–28). I build AI agents and automation systems, with a focus on backend engineering and system design. Currently looking for AI/ML and software engineering internships.
-
-### Focus
-
-- **AI systems:** agentic AI, LLMs, RAG, multi-agent workflows
-- **Backend:** Java services, APIs, system design
-- **Data:** data-driven tooling and automation
-
-### Tech
-
-<p>
-  <img src="https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <!-- Add more badges for tools you actually use -->
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-### GitHub
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SKhunmeer&show_icons=true&theme=transparent&hide_border=true&title_color=24292f&icon_color=57606a&text_color=57606a" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKhunmeer&layout=compact&theme=transparent&hide_border=true&title_color=24292f&text_color=57606a" alt="Top languages"/>
-</p>
-
-<sub>Hyderabad, India</sub>
